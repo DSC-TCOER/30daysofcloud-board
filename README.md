@@ -10,5 +10,5 @@ Data is generated at build time.
 - Update the data replacing this file.
 - Use something like vercel/netlify for deployment.
 - Learning Git with 3 others
-
+- Trying it again
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fcrossphoton%2F30daysofcloud-board.git)
